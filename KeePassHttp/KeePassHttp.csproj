@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="KeePass">
-      <HintPath>C:\Program Files (x86)\KeePass Password Safe 2\KeePass.exe</HintPath>
+      <HintPath>..\..\..\Soft\KeePass\KeePass.exe</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json">

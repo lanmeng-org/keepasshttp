@@ -188,6 +188,14 @@ namespace KeePassHttp {
                     if (realm != null && c.Realm != realm)
                         return false;
                 }
+                
+                foreach (var sf in e.Strings)
+                {
+                    if (sf.Key.StartsWith("KPH_URL"))
+                    {
+                        return true;
+                    }
+                }
 
                 if (entryUrl != null && (entryUrl.StartsWith("http://") || entryUrl.StartsWith("https://") || title.StartsWith("ftp://") || title.StartsWith("sftp://")))
                 {

@@ -64,7 +64,7 @@ namespace KeePassHttp
             p.RegularExpression = true;
             p.SearchInGroupNames = false;
             p.SearchInNotes = false;
-            p.SearchInOther = false;
+            p.SearchInOther = true;
             p.SearchInPasswords = false;
             p.SearchInTags = false;
             p.SearchInUrls = true;
