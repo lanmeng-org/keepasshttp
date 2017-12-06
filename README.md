@@ -1,3 +1,11 @@
+# 说明
+在 `KeePassHttp` 原有功能上添加了多网址匹配功能.
+可在`编辑记录`->`高级`里面添加以 `KPH_URL`开头的字段, 匹配时会自动查找`KPH_URL`开头的字段里的值, 与当前网址比对.
+
+例:
+[<img src="https://raw.github.com/pfn/keepasshttp/master/documentation/images/KeePassHttp-KPH_URL.png" />](https://raw.github.com/pfn/keepasshttp/master/documentation/images/KeePassHttp-KPH_URL.png)
+会匹配所有包含 `qq.com` 或 `tencent.com` 的网址.
+
 # KeePassHttp
 
 is a plugin for KeePass 2.x and provides a secure means of exposing KeePass entries via HTTP for clients to
