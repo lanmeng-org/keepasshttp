@@ -1,10 +1,10 @@
-# ËµÃ÷
-ÔÚ `KeePassHttp` Ô­ÓĞ¹¦ÄÜÉÏÌí¼ÓÁË¶àÍøÖ·Æ¥Åä¹¦ÄÜ.
-¿ÉÔÚ`±à¼­¼ÇÂ¼`->`¸ß¼¶`ÀïÃæÌí¼ÓÒÔ `KPH_URL`¿ªÍ·µÄ×Ö¶Î, Æ¥ÅäÊ±»á×Ô¶¯²éÕÒ`KPH_URL`¿ªÍ·µÄ×Ö¶ÎÀïµÄÖµ, Óëµ±Ç°ÍøÖ·±È¶Ô.
+# è¯´æ˜
+åœ¨ `KeePassHttp` åŸæœ‰åŠŸèƒ½ä¸Šæ·»åŠ äº†å¤šç½‘å€åŒ¹é…åŠŸèƒ½.
+å¯åœ¨`ç¼–è¾‘è®°å½•`->`é«˜çº§`é‡Œé¢æ·»åŠ ä»¥ `KPH_URL`å¼€å¤´çš„å­—æ®µ, åŒ¹é…æ—¶ä¼šè‡ªåŠ¨æŸ¥æ‰¾`KPH_URL`å¼€å¤´çš„å­—æ®µé‡Œçš„å€¼, ä¸å½“å‰ç½‘å€æ¯”å¯¹.
 
-Àı:
-[<img src="https://raw.github.com/pfn/keepasshttp/master/documentation/images/KeePassHttp-KPH_URL.png" />](https://raw.github.com/pfn/keepasshttp/master/documentation/images/KeePassHttp-KPH_URL.png)
-»áÆ¥ÅäËùÓĞ°üº¬ `qq.com` »ò `tencent.com` µÄÍøÖ·.
+ä¾‹:
+[<img src="https://raw.github.com/lanmeng-org/keepasshttp/master/documentation/images/KeePassHttp-KPH_URL.png" />](https://raw.github.com/lanmeng-org/keepasshttp/master/documentation/images/KeePassHttp-KPH_URL.png)
+ä¼šåŒ¹é…æ‰€æœ‰åŒ…å« `qq.com` æˆ– `tencent.com` çš„ç½‘å€.
 
 # KeePassHttp
 
